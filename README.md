@@ -11,9 +11,3 @@ Inspired by Zillow's Zestimate model, my team and I evaluated several machine le
 - Creating a baseline model to compare performance of tuned machine learning models to
 - Training KNN, decision trees, random forest, and lasso models and tuning these models to improve their performance before picking the best prediction model
 - Ultimately picked the random forest model as our best prediction model due to to its low RMSE score and its ability to show predictors that have the most affect on house prices
-
-### 🔎 Here is a link to the project report for a deeper look
-[Project Report](https://drive.google.com/file/d/1r-WBKyk_H3IFA25h3kzNHxJp3GYaMjyz/view?usp=share_link)
-
-### 🔎 Here is a link to the project presentation 
-[Project Presentation](https://drive.google.com/file/d/1wjM7aSuYMEN7yl99CNUap3FvT0RLhtOs/view?usp=share_link)
